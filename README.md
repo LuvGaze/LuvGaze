@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=B39DDB&center=true&vCenter=true&width=820&height=60&lines=%E4%B8%80%E5%90%8D%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E3%80%81%E6%8E%A2%E7%B4%A2%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%89%BA%E6%9C%AF%E7%9A%84%E7%88%B1%E5%A5%BD%E8%80%85;%F0%9F%8C%B8%20%E7%94%A8%20Astro%20%2B%20Svelte%20%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%B0%E5%AD%97%E8%8A%B1%E5%9B%AD;Python%20%C2%B7%20Vue%20%C2%B7%20AI%20Tools;%E5%9D%9A%E6%8C%81%E8%AE%B0%E5%BD%95%EF%BC%8C%E5%9D%9A%E6%8C%81%E7%83%AD%E7%88%B1;Keep%20coding%2C%20keep%20loving.)](https://git.io/typing-svg)
 
 <!-- 徽章墙 -->
-[![Visitors](https://komarev.com/ghpvc/?username=LuvGaze&label=Visitors&color=B39DDB&style=flat-square)](https://github.com/LuvGaze)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuvGaze&label=Visitors&countColor=%23B39DDB&style=flat-square)](https://github.com/LuvGaze)
 [![Followers](https://img.shields.io/github/followers/LuvGaze?style=flat-square&logo=github&label=Followers&color=B39DDB)](https://github.com/LuvGaze?tab=followers)
 [![Blog Stars](https://img.shields.io/github/stars/LuvGaze/Blog?style=flat-square&logo=github&label=Blog%20Stars&color=9C7BD9)](https://github.com/LuvGaze/Blog/stargazers)
 [![Blog Forks](https://img.shields.io/github/forks/LuvGaze/Blog?style=flat-square&logo=github&label=Forks&color=78AB9C)](https://github.com/LuvGaze/Blog/network/members)
@@ -127,35 +127,17 @@
 
 ## 🚀 我的仓库 · 项目
 
-<div align="center">
-
-<a href="https://github.com/LuvGaze/Blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuvGaze&repo=Blog&theme=material-palenight&hide_border=true&title_color=B39DDB&icon_color=B39DDB" alt="Blog" />
-</a>
-<a href="https://github.com/LuvGaze/School">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuvGaze&repo=School&theme=material-palenight&hide_border=true&title_color=B39DDB&icon_color=B39DDB" alt="School" />
-</a>
-
-</div>
-
-### ⭐ 精选项目
-
-<div align="center">
-
-<a href="https://github.com/LuvGaze/Blog">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuvGaze&repo=Blog&theme=material-palenight&hide_border=true&title_color=B39DDB&icon_color=B39DDB&description_lines_count=3" alt="Blog" />
-</a>
-<a href="https://github.com/LuvGaze/School">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuvGaze&repo=School&theme=material-palenight&hide_border=true&title_color=B39DDB&icon_color=B39DDB&description_lines_count=3" alt="School" />
-</a>
-
-</div>
-
-### 🗂️ 全部仓库 · 自动排序
+### 🗂️ 仓库列表 · 全部项目
 
 <!-- REPOS-LIST:START -->
-> 🌱 **首次生成中**：把 `.github/workflows/update-repos.yml` 放进 Profile 仓库后，
-> 这里会自动写入按「Star 数 → 最近推送」排序的全部仓库列表，之后新增项目无需手动维护。
+<!-- 本表由 GitHub Actions 自动维护：按「Star 数 → 最近推送」排序。
+     把 .github/workflows/update-repos.yml 放进 Profile 仓库后，新增的仓库会自动排进这里 -->
+
+| 项目 | 关于 | 语言 | Star | 最近更新 |
+|------|------|------|------|----------|
+| [**Blog**](https://github.com/LuvGaze/Blog) | 基于 Astro 7 + Svelte 5 的个人博客：文章、书架、影视、番组、游戏、音乐、相册、足迹、账单、更新日志全部以 Markdown / YAML 托管，另配 Express + TypeScript 可视化后台 | ![lang](https://img.shields.io/github/languages/top/LuvGaze/Blog?style=flat-square&color=B39DDB) | ![stars](https://img.shields.io/github/stars/LuvGaze/Blog?style=flat-square&color=F7C263) | ![last](https://img.shields.io/github/last-commit/LuvGaze/Blog?style=flat-square&color=78AB9C) |
+| [**School**](https://github.com/LuvGaze/School) | 大学期间的学习资料与课程实践存档：数字图像处理、Python 学习记录、单片机开发、杂项文件，按分支整理 | ![lang](https://img.shields.io/github/languages/top/LuvGaze/School?style=flat-square&color=B39DDB) | ![stars](https://img.shields.io/github/stars/LuvGaze/School?style=flat-square&color=F7C263) | ![last](https://img.shields.io/github/last-commit/LuvGaze/School?style=flat-square&color=78AB9C) |
+
 <!-- REPOS-LIST:END -->
 
 ### 📚 学习存档 · 归档项目
