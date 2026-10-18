@@ -79,9 +79,17 @@
 
 <br/>
 
+<h4>🗓️ 贡献日历 · 近一年</h4>
+
 <a href="https://github.com/LuvGaze">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuvGaze&theme=material-palenight&hide_border=true&area=true&custom_title=LuvGaze%20%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%BD%A8%E8%BF%B9" alt="activity graph" />
+  <img width="95%" src="https://ghchart.rshah.org/B39DDB/LuvGaze" alt="contribution calendar" />
 </a>
+
+<br/>
+
+![Commits This Year](https://img.shields.io/github/commit-activity/y/LuvGaze/Blog?style=flat-square&label=Commits%20This%20Year&color=9C7BD9)
+![Commits This Month](https://img.shields.io/github/commit-activity/m/LuvGaze/Blog?style=flat-square&label=Commits%20This%20Month&color=78AB9C)
+![Commits This Week](https://img.shields.io/github/commit-activity/w/LuvGaze/Blog?style=flat-square&label=Commits%20This%20Week&color=F7C263)
 
 </div>
 
@@ -90,10 +98,13 @@
 ## 🏆 成就与画像
 
 <div align="center">
-
-<a href="https://github.com/LuvGaze">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuvGaze&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophy" />
-</a>
+ 
+<!-- 里程碑徽章墙（替代已失效的奖杯服务） -->
+[![Total Commits](https://img.shields.io/github/commit-activity/t/LuvGaze/Blog?style=for-the-badge&label=Total%20Commits&color=B39DDB&labelColor=2b2b3a)](https://github.com/LuvGaze/Blog/commits)
+[![Contributors](https://img.shields.io/github/contributors/LuvGaze/Blog?style=for-the-badge&label=Contributors&color=9C7BD9&labelColor=2b2b3a)](https://github.com/LuvGaze/Blog/graphs/contributors)
+[![Top Language](https://img.shields.io/github/languages/top/LuvGaze/Blog?style=for-the-badge&label=Top%20Language&color=78AB9C&labelColor=2b2b3a)](https://github.com/LuvGaze/Blog)
+[![Repo Size](https://img.shields.io/github/repo-size/LuvGaze/Blog?style=for-the-badge&label=Repo%20Size&color=F7C263&labelColor=2b2b3a)](https://github.com/LuvGaze/Blog)
+[![License](https://img.shields.io/github/license/LuvGaze/Blog?style=for-the-badge&label=License&color=3DA639&labelColor=2b2b3a)](https://github.com/LuvGaze/Blog/blob/master/LICENSE)
 
 <br/>
 
