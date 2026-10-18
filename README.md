@@ -138,7 +138,27 @@
 
 </div>
 
-### 📚 已开源项目
+### ⭐ 精选项目
+
+<div align="center">
+
+<a href="https://github.com/LuvGaze/Blog">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuvGaze&repo=Blog&theme=material-palenight&hide_border=true&title_color=B39DDB&icon_color=B39DDB&description_lines_count=3" alt="Blog" />
+</a>
+<a href="https://github.com/LuvGaze/School">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuvGaze&repo=School&theme=material-palenight&hide_border=true&title_color=B39DDB&icon_color=B39DDB&description_lines_count=3" alt="School" />
+</a>
+
+</div>
+
+### 🗂️ 全部仓库 · 自动排序
+
+<!-- REPOS-LIST:START -->
+> 🌱 **首次生成中**：把 `.github/workflows/update-repos.yml` 放进 Profile 仓库后，
+> 这里会自动写入按「Star 数 → 最近推送」排序的全部仓库列表，之后新增项目无需手动维护。
+<!-- REPOS-LIST:END -->
+
+### 📚 学习存档 · 归档项目
 
 <details open>
 <summary><strong>点击展开/收起</strong> ✨</summary>
